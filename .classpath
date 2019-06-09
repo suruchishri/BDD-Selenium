@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/cucumber-core-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/cucumber-java-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/cucumber-junit-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/cucumber-reporting-3.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/gherkin-4.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Downloads/Selenium/cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
